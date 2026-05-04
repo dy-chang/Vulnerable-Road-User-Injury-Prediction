@@ -50,5 +50,4 @@ The notebook fetches live data from the NYC Open Data SODA API — no manual dow
 ## Author
 
 **Daeyeol Chang, Ph.D.**  
-Postdoctoral Researcher, Morgan State University  
-Transportation Data Scientist — travel demand modeling · evacuation simulation · urban safety analytics
+Transportation Data Scientist/Traffic Modeler
