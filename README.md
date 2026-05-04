@@ -46,6 +46,10 @@ The notebook fetches live data from the NYC Open Data SODA API — no manual dow
 - Feature importance + partial dependence interpretation  
 - Vision Zero policy communication
 
+- ## Key Result
+
+![NYC VRU Injury Prediction — Dashboard](figures/repo_hero_figure.png)
+
 ## Author
 
 **Daeyeol Chang, Ph.D.**  
