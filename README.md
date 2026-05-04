@@ -1,8 +1,7 @@
 # NYC Vulnerable Road User (VRU) Injury Prediction
 **AUC-ROC: 0.57 baseline → 0.82 with domain-informed feature engineering**
 
-> A Transportation Data Science portfolio project demonstrating that  
-> *problem framing matters more than algorithm choice.*
+
 
 ---
 
