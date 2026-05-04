@@ -33,7 +33,7 @@ The notebook fetches live data from the NYC Open Data SODA API — no manual dow
 | RF baseline | Temporal + borough | 0.620 |
 | LR improved | Rich + class balanced | 0.818 |
 | GB improved | Rich + class balanced | 0.816 |
-| **RF improved** | **Rich + class balanced** | **0.820 ✓** |
+| **RF improved** | **Rich + class balanced** | **0.820 ** |
 
 **Why it improved:** redesigned target variable + domain feature engineering  
 (vehicle types, multi-vehicle flag, cyclic time encoding, NLP on contributing factors).
